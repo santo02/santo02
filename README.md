@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santo L Harianja
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning at institu Teknologi Del
+- 🌱 I’m currently learning at institut Teknologi Del
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
