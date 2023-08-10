@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Santo L Harianja
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning at institut Teknologi Del
-- 💞️ I’m looking to collaborate on 
-- 📫 you can  reach me on santolamsar@gmail.com
-- 
-<!---
-santo02/santo02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍🎓 Fresh IT Graduate | Software Engineer | Web Developer 🌐
+
+🎓 Lulusan Teknologi Rekayasa Perangkat Lunak dari Institut Teknologi Del
+🌟 Bersemangat dalam mengembangkan solusi teknologi yang inovatif
+💻 Penggemar pemrograman dengan fokus pada web development dan full-stack
+
+🔍 Keahlian:
+🌐 Front-end: HTML, CSS, JavaScript, Vue js, React Js
+⚙️ Back-end:  PHP(Laravel)
+📊 Pengetahuan tentang basis data dan desain sistem
+
+💡 Ketertarikan:
+🌱 Eksplorasi teknologi terbaru dalam pengembangan web
+🤝 Berkolaborasi dalam tim untuk menciptakan pengalaman pengguna yang luar biasa
+📚 Terus belajar dan berkembang dalam dunia pemrograman
+
+🌐 Github: https://github.com/santo02/
+📧 Hubungi saya di santolamsar@gmail.com
